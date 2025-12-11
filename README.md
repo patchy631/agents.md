@@ -1,11 +1,6 @@
-# AGENTS.md
-
 ![AGENTS.md logo](./public/og.png)
 
 [AGENTS.md](https://agents.md) is a simple, open format for guiding coding agents.
-
-Think of AGENTS.md as a README for agents: a dedicated, predictable place
-to provide context and instructions to help AI coding agents work on your project.
 
 Below is a minimal example of an AGENTS.md file:
 
